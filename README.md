@@ -2,8 +2,10 @@
 - 🔭 Atualmente sou Indie Game Developer C#
 - 🌱 Estudando C#, C++ e Java Script
 - 💬 Ajudo no que eu conseguir, chama pv 😎
-- 📫 Instagram: @Solicmoba | E-mai: contatosolicmoba@gmail.com
-- ⚡ Fato interessante: tenho 15 anos ;-;
+- 📫 Instagram: @Solicmoba | E-mail: contatosolicmoba@gmail.com
+- ⚡ Fato interessante: tenho 15 anos <3
+
+##
 
 <div align="center">
   <a href="https://github.com/solicmoba">
@@ -28,5 +30,3 @@
  	<a href="https://www.twitch.tv/solic_moba" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/CrrVf8Xuu7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
-
-![Snake animation](https://github.com/solicmoba/rafaballerini/blob/output/github-contribution-grid-snake.svg)
