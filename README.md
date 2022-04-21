@@ -1,9 +1,7 @@
 ### Opa!! Eu sou o SoLic Moba
-- 🔭 Atualmente sou Indie Game Developer C#
-- 🌱 Estudando C#, C++ e Java Script
-- 💬 Ajudo no que eu conseguir, chama pv 😎
+- 🌱 Estudando para ser um Front-End (HTML, CSS e JavaScript)
 - 📫 Instagram: @Solicmoba | E-mail: contatosolicmoba@gmail.com
-- ⚡ Fato interessante: tenho 15 anos <3
+- ⚡ 16y
 
 ##
 
