@@ -1,5 +1,5 @@
 ### Opa!! Eu sou o SoLic Moba
-- 🌱 Estudando para ser um Front-End (HTML, CSS e JavaScript)
+- 🌱 Estudando para ser um Front-End
 - 📫 Instagram: @Solicmoba | E-mail: contatosolicmoba@gmail.com
 - ⚡ 16y
 
