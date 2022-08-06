@@ -1,9 +1,9 @@
 ### Richard Re'Code | Solic By Code
 - 🌱 Estudando Front-End
-- 📫 Instagram: https://www.instagram.com/richard_recode/ | E-mail: contatosolicmoba@gmail.com
-- ⚡ 16y
+- 📫 Instagram: https://www.instagram.com/richard_recode/ 
+- 📩 E-mail: contatosolicmoba@gmail.com
 
-##
+## Apaixonado em Programaçãooo!!!
 
 <div align="center">
   <a href="https://github.com/solicmoba">
