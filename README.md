@@ -1,6 +1,6 @@
-### Opa!! Eu sou o SoLic Moba
-- 🌱 Estudando para ser um Front-End
-- 📫 Instagram: @Solicmoba | E-mail: contatosolicmoba@gmail.com
+### Richard Re'Code | Solic By Code
+- 🌱 Estudando Front-End
+- 📫 Instagram: https://www.instagram.com/richard_recode/ | E-mail: contatosolicmoba@gmail.com
 - ⚡ 16y
 
 ##
