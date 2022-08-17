@@ -1,5 +1,5 @@
 ### Richard Re'Code | Solic By Code
-- 🌱 Estudando Front-End
+- 🌱 Programmer Front-End
 - 📫 Instagram: https://www.instagram.com/richard_recode/ 
 - 📩 E-mail: contatosolicmoba@gmail.com
 
