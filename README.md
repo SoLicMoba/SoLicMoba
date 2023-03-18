@@ -3,7 +3,7 @@
 - 📫 Instagram: https://www.instagram.com/richard_recode/ 
 - 📩 E-mail: contatosolicmoba@gmail.com
 
-## Apaixonado em Programaçãooo!!!
+## Experienced Front-End Developer in JavaScript and React JS.
 
 <div align="center">
   <a href="https://github.com/solicmoba">
