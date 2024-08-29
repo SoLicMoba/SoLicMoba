@@ -13,7 +13,6 @@
 
 <div style="display: inline_block">
   <div align="start">
-  <h3>technologies</h3>
     <img align="center" alt="RR-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML"/>
     <img align="center" alt="RR-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS"/>
     <img align="center" alt="RR-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JS"/>
@@ -22,9 +21,8 @@
     <img align="center" alt="RR-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="REACTJS"/>
     <img align="center" alt="RR-NEXT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="NEXTJS"/>
   </div>
-  
+  <br/>
   <div align="start">
-      <h3>tools</h3>
     <img align="center" alt="RR-NOTION" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" title="NOTION"/>
     <img align="center" alt="RR-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="FIGMA"/>
     <img align="center" alt="RR-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="GIT"/>
@@ -40,8 +38,11 @@
   <a href="https://www.linkedin.com/in/richard-recode-26bb44247/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
 </div>
+<br/>
+    <div>
+      <img height="450em" width="100%" style="object-fit: cover;" src="https://imgur.com/Vf2qS0G.jpg"/>
+    </div>
 
   <!-- <a href="https://www.linkedin.com/in/richard-recode-26bb44247/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
